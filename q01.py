@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = int(input())
+soma = (a**2) + (b**2) + (c**2) + (d**2) + (e**2)
+print(soma)
